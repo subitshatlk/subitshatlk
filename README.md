@@ -1,6 +1,6 @@
 -  Hi, I’m @subitshatlk
 -  I’m interested in Web & Mobile app development, Machine Learning and Software Development
--  I’m currently pursuing B.Tech in Information Technology 
+-  I’m currently pursuing Master's in Computer Science at the University of Utah 
 -  I’m looking to collaborate on projects in which I can utilize my technical skills
 -  Reach me at subitsha1602@gmail.com 
 
