@@ -1,7 +1,8 @@
 -  Hi, I’m @subitshatlk
--  I’m interested in Web & Mobile app development, Machine Learning and Software Development
--  I’m currently pursuing Master's in Computer Science at the University of Utah 
--  I’m looking to collaborate on projects in which I can utilize my technical skills
+-  I’m currently pursuing Master's in Computer Science at the University of Utah
+-  Graduate Research Assistant at the Kahlert School of Computing.
+-  This Github profile showcases my projects in Web & Mobile app development, Natural Language processing and Software Development.
+-  DSA Problems Solved in Leetcode. 
 -  Reach me at subitshatlk2001@gmail.com 
 
 <!---
